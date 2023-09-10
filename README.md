@@ -16,6 +16,5 @@ Dự án Stuguide là một tiện ích dành cho sinh viên giúp tìm trọ, q
 6. Phạm Việt Hưng
 7. Lê Văn Dương - [2251172312@e.tlu.edu.vn](mailto:2251172312@e.tlu.edu.vn)
 
-### Quản lí project
-[Quản lí project](https://github.com/users/letungduong24/projects/1)
+[![Nút Quản Lý Dự Án](https://img.shields.io/badge/Quản%20Lý%20Dự%20Án-GitHub-blue.svg)](https://github.com/users/letungduong24/projects/1)
 
