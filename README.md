@@ -1,5 +1,7 @@
 Môn: Công nghệ phần mềm
+
 Chủ đề dự án: Stuguide - Tiện ích sinh viên.
+
 Thành viên:
   1. Trưởng nhóm: Nguyễn Bảo Chung - 2251172258@e.tlu.edu.vn
   2. Nguyễn Trà Giang - 2251172322@e.tlu.edu.vn
