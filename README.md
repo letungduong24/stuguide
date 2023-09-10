@@ -1,5 +1,5 @@
 # Dự Án Stuguide - Tiện Ích Sinh Viên
-
+![Dự Án Stuguide](stuguide/social.png)
 ## Môn: Công Nghệ Phần Mềm
 
 ### Thành Viên Nhóm:
