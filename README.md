@@ -1,7 +1,8 @@
 # Dự Án Stuguide - Tiện ích Sinh viên
-<img src="https://github.com/letungduong24/stuguide/blob/main/socialgit.png" alt="Tên mô tả ảnh" width="30%">
+<div style="text-align:center">
+  <img src="https://github.com/letungduong24/stuguide/blob/main/socialgit.png" alt="Tên mô tả ảnh" width="40%">
+</div>
 ## Môn: Công nghệ phần mềm
-
 ### Chủ đề dự án
 
 Dự án Stuguide là một tiện ích dành cho sinh viên giúp tìm trọ, quán ăn phù hợp. Đồng thời đóng góp các thông tin cần thiết cho sinh viên
