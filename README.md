@@ -1,10 +1,10 @@
 # Dự Án Stuguide - Tiện ích Sinh viên
-
+![Dự Án Stuguide](https://github.com/letungduong24/stuguide/raw/main/social.png)
 ## Môn: Công nghệ phần mềm
 
 ### Chủ đề dự án
 
-Dự án Stuguide là một tiện ích dành cho sinh viên để giúp họ quản lý thông tin và tài liệu học tập một cách dễ dàng.
+Dự án Stuguide là một tiện ích dành cho sinh viên giúp tìm trọ, quán ăn phù hợp. Đồng thời đóng góp các thông tin cần thiết cho sinh viên
 
 ### Thành viên
 
@@ -17,9 +17,5 @@ Dự án Stuguide là một tiện ích dành cho sinh viên để giúp họ qu
 7. Lê Văn Dương - [2251172312@e.tlu.edu.vn](mailto:2251172312@e.tlu.edu.vn)
 
 ### Quản lí project
+[Quản lí project](https://github.com/users/letungduong24/projects/1)
 
-Bạn có thể xem quản lý dự án của chúng tôi trên GitHub tại đây: [Quản lí project](https://github.com/users/letungduong24/projects/1)
-
-### Hình ảnh dự án
-
-![Hình ảnh dự án](link_to_image.jpg)
