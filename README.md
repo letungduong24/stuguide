@@ -1,7 +1,9 @@
 # Dự Án Stuguide - Tiện ích Sinh viên
+
 <div style="text-align:center">
   <img src="https://github.com/letungduong24/stuguide/blob/main/socialgit.png" alt="Tên mô tả ảnh" width="40%">
 </div>
+
 ## Môn: Công nghệ phần mềm
 ### Chủ đề dự án
 
