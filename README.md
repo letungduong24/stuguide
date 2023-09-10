@@ -1,5 +1,5 @@
 # Dự Án Stuguide - Tiện Ích Sinh Viên
-![Dự Án Stuguide](https://github.com/letungduong24/stuguide/raw/main/social.png)
+<img src="https://github.com/letungduong24/stuguide/raw/main/social.png" alt="Dự Án Stuguide" align="right">
 ## Môn: Công Nghệ Phần Mềm
 
 ### Thành Viên Nhóm:
