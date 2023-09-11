@@ -1,9 +1,4 @@
 # Dự Án Stuguide - Tiện ích Sinh viên
-
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/letungduong24/stuguide/blob/main/socialgit.png" alt="Tên mô tả ảnh" width="40%" style="margin:auto;">
-</div>
-
 ## Môn: Công nghệ phần mềm
 ### Chủ đề dự án
 
@@ -16,7 +11,7 @@ Dự án Stuguide là một tiện ích dành cho sinh viên giúp tìm trọ, q
 3. Lê Trí Đức - [2251172288@e.tlu.edu.vn](mailto:2251172288@e.tlu.edu.vn)
 4. Lê Tùng Dương - [2251172311@e.tlu.edu.vn](mailto:2251172311@e.tlu.edu.vn)
 5. Vũ Anh Tú - [2251172542@e.tlu.edu.vn](mailto:2251172542@e.tlu.edu.vn)
-6. Phạm Việt Hưng
+6. Phạm Việt Hưng - [2251172363@e.tlu.edu.vn ](2251172363@e.tlu.edu.vn )
 7. Lê Văn Dương - [2251172312@e.tlu.edu.vn](mailto:2251172312@e.tlu.edu.vn)
 
 [![Nút Quản Lý Dự Án](https://img.shields.io/badge/Quản%20Lý%20Dự%20Án-GitHub-blue.svg)](https://github.com/users/letungduong24/projects/1)
